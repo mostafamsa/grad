@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270623410666",
+    "firebase_url": "https://grad-a477a-default-rtdb.firebaseio.com",
+    "project_id": "grad-a477a",
+    "storage_bucket": "grad-a477a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270623410666:android:d4010093f3df20ead48a93",
+        "android_client_info": {
+          "package_name": "com.example.mostafaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270623410666-klmf3oajq93esho9j8joibedvb0voi8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafaproject",
+            "certificate_hash": "945ac40e8152823b080d299540e6bc2bd4cfe463"
+          }
+        },
+        {
+          "client_id": "270623410666-qvnsn6tg8vpq7llsmd46g1jttfa39ur4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvA79JXm3ZxWI-yT6nfa0Qiaoh3ROFcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270623410666-qvnsn6tg8vpq7llsmd46g1jttfa39ur4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270623410666-cgm7gnallngsd4m46aal7meghkjg4670.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mostafaproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
